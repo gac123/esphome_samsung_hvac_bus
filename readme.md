@@ -1,3 +1,9 @@
+!!!! THIS IS A FORK FROM : https://github.com/omerfaruk-aran/esphome_samsung_hvac_bus/tree/main !!!!
+!!!! FOR EXPERIMENTAL LEARNING PURPOSES !!!!
+
+
+
+
 # ESPHome Samsung HVAC Integration
 
 Welcome to the **ESPHome Samsung HVAC Integration** project! This project provides an [ESPHome](https://esphome.io/) component to integrate Samsung HVAC units (air conditioners or heat pumps) seamlessly into Home Assistant. Our goal is to empower users with comprehensive control and monitoring of their HVAC systems using modern, open-source tools.
